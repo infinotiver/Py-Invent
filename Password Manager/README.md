@@ -24,14 +24,15 @@ Welcome to the Password Manager – your guardian in the digital realm! This pro
 
 To run the project locally, follow these steps:
 
-1. Clone the repository:
+### Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-password-manager.git
-   cd your-password-manager
-## Run the project:
+   git clone https://github.com/infinotiver/Math-Quiz-Master.git
+   ```
+### Run the project:
 ```bash
-python password_manager.py
+python main.py 
 ```
+(In Password Manager directory)
 ## Contribution
 Feel free to contribute to the project! Here are some ideas:
 
