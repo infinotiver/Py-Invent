@@ -49,7 +49,7 @@ If you have ideas for new features or improvements, feel free to open an [issue]
    ```bash
    git push origin feature-name
    ```
-5. Open a pull request against the `main` branch.
+5. Open a pull request against the `master` branch.
 
 ## Code Style
 
