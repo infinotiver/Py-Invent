@@ -45,4 +45,4 @@ Feel free to contribute to the project by adding features, improving code, or fi
 This project is licensed under the [MIT License](LICENSE).
 
 Let the Math Quiz Master challenge your mind and bring out the math wizard in you! 🌟
-```
+
