@@ -26,6 +26,11 @@ Py-Invent is a haven for inventive Python projects designed to spark creativity 
   - Description: An interactive basic project for showcasing password management and how to keep a strong password
   - Code: [View Code](https://github.com/infinotiver/Py-Invent/tree/master/Password%20Manager)
 
+- **Project 3: Custom Notepad**
+  - Author: [Infinotiver](https://github.com/infinotiver)
+  - Description: Custom notepad with many features (W.I.P)
+  - Code: [View Code](https://github.com/infinotiver/Py-Invent/tree/master/Custom%20Notepad)
+
 
 
 ## How to Contribute
