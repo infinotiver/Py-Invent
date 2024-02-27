@@ -39,7 +39,7 @@ python math_quiz_master.py
 Compete against yourself! Track and beat your high scores in different difficulty levels.
 
 ## Contributing
-Feel free to contribute to the project by adding features, improving code, or fixing bugs. Follow the [Contribution Guide](CONTRIBUTING.md) for details.
+Feel free to contribute to the project by adding features, improving code, or fixing bugs. Follow the [Contribution Guide](https://github.com/infinotiver/Py-Invent/blob/master/CONTRIBUTING.md) for details.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
