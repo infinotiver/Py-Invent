@@ -42,7 +42,7 @@ Compete against yourself! Track and beat your high scores in different difficult
 Feel free to contribute to the project by adding features, improving code, or fixing bugs. Follow the [Contribution Guide](https://github.com/infinotiver/Py-Invent/blob/master/CONTRIBUTING.md) for details.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/infinotiver/Py-Invent/blob/master/LICENSE).
 
 Let the Math Quiz Master challenge your mind and bring out the math wizard in you! 🌟
 
