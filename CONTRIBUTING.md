@@ -59,4 +59,4 @@ Follow the existing code style and conventions in the project. Use clear and con
 
 By contributing, you agree that your contributions will be licensed under the [MIT License](LICENSE).
 
-Thank you for contributing to Math Quiz Master! 🚀
+
