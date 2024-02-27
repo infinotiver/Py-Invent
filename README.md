@@ -17,12 +17,12 @@ Py-Invent is a haven for inventive Python projects designed to spark creativity 
 ## Projects
 
 - **Project 1: Maths Quiz Master**
-  - Author: @infinotiver
+  - Author: [Infinotiver](https://github.com/infinotiver)
   - Description: A fun game with timers and keys for checking your mental maths skill
   - Code: [View Code](https://github.com/infinotiver/Py-Invent/tree/master/Maths%20Quiz%20Master)
 
 - **Project 2: Password Manager**
-  - Author: @infinotiver
+  - Author: [Infinotiver](https://github.com/infinotiver)
   - Description: An interactive basic project for showcasing password management and how to keep a strong password
   - Code: [View Code](https://github.com/infinotiver/Py-Invent/tree/master/Password%20Manager)
 
