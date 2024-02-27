@@ -1,6 +1,3 @@
-Sure, here's a cute and techy-themed README for your project:
-
-```markdown
 # Math Quiz Master 🧮✨
 ## By @infinotiver
 ##### Originally Made for COTW-8: Math Quiz Master by AI STUDENT COMMUNITY
@@ -26,7 +23,7 @@ Welcome to **Maths Escape**, a quiz game designed to sharpen your mathematical s
 To run the Math Quiz Master, make sure you have Python installed. Clone the repository and run the script:
 ```bash
 python math_quiz_master.py
-```
+
 
 ## How to Play
 1. Solve math problems generated at different difficulty levels.
