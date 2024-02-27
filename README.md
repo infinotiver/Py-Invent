@@ -1,4 +1,3 @@
-C
 
 # Py-Invent - Unleash Your Python Creativity 🚀🐍
 
