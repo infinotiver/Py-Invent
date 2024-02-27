@@ -40,7 +40,7 @@ Feel free to contribute to the project! Here are some ideas:
 - Add support for multiple user logins.
 - Improve password generation algorithms.
 
-Before contributing, check out the [Contribution Guidelines](CONTRIBUTING.md)
+Before contributing, check out the [Contribution Guidelines](https://github.com/infinotiver/Py-Invent/blob/master/CONTRIBUTING.md)
 
 License
 This project is licensed under the MIT License. Feel free to use and modify it for your own purposes.
