@@ -1,7 +1,5 @@
 # Math Quiz Master 🧮✨
-## By @infinotiver
-##### Originally Made for COTW-8: Math Quiz Master by AI STUDENT COMMUNITY
-
+## Made with ❤️ by [Infinotiver](https://github.com/infinotiver)
 Welcome to **Maths Escape**, a quiz game designed to sharpen your mathematical skills! 🚀
 
 ## Features
