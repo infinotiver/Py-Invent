@@ -37,7 +37,7 @@ Py-Invent is a haven for inventive Python projects designed to spark creativity 
 
 We'd love your contributions to make Py-Invent a vibrant community for Python enthusiasts! Here's how you can get involved:
 
-### 1. Fork the Repository: Click the "Fork" button on the top right corner of this GitHub page. This creates your own copy of the repository.
+#### 1. Fork the Repository: Click the "Fork" button on the top right corner of this GitHub page. This creates your own copy of the repository.
 
 Clone Your Fork: Use Git to clone your forked repository to your local machine. Replace `<your-username>` with your actual GitHub username:
 
@@ -45,7 +45,7 @@ Clone Your Fork: Use Git to clone your forked repository to your local machine. 
 git clone https://github.com/<your-username>/py-invent.git
 ```
 
-### 2. Create a New Branch: Create a new branch for your specific changes. This helps keep your development isolated and organized:
+#### 2. Create a New Branch: Create a new branch for your specific changes. This helps keep your development isolated and organized:
 
 ```bash
 git checkout -b feature/your-feature-name
@@ -53,9 +53,9 @@ git checkout -b feature/your-feature-name
 
 Replace your-feature-name with a descriptive name that reflects your contribution (e.g., fix-bug-in-calculator, add-new-game-template).
 
-### 3. Make Changes: Make your modifications to the relevant files in the cloned repository. Ensure you follow our coding style and conventions (if any).
+#### 3. Make Changes: Make your modifications to the relevant files in the cloned repository. Ensure you follow our coding style and conventions (if any).
 
-### 4. Commit Changes: Once you're satisfied with your changes, commit them with a clear and concise message describing what you've done:
+#### 4. Commit Changes: Once you're satisfied with your changes, commit them with a clear and concise message describing what you've done:
 
 ```bash
 git commit -m "Fix calculation bug in calculator module"
@@ -63,13 +63,13 @@ git commit -m "Fix calculation bug in calculator module"
 
 Replace the message with your specific contribution description.
 
-### 5. Push Changes: Push your committed changes to your remote fork on GitHub:
+#### 5. Push Changes: Push your committed changes to your remote fork on GitHub:
 
 ```bash
 git push origin feature/your-feature-name
 ```
 
-### 7. Create a Pull Request: Navigate to your forked repository on GitHub and click the "Pull requests" tab. Click the green "New pull request" button and follow the prompts to create a pull request from your feature branch to the main repository of Py-Invent.
+#### 7. Create a Pull Request: Navigate to your forked repository on GitHub and click the "Pull requests" tab. Click the green "New pull request" button and follow the prompts to create a pull request from your feature branch to the main repository of Py-Invent.
 
 Celebrate!  Your contribution has been submitted for review. The Py-Invent maintainers will review your pull request and provide feedback or merge it into the main repository if it aligns with the project's goals.
 
