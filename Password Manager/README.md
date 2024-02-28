@@ -33,6 +33,7 @@ To run the project locally, follow these steps:
 python main.py 
 ```
 (In Password Manager directory)
+
 ## Contribution
 Feel free to contribute to the project! Here are some ideas:
 
@@ -43,7 +44,7 @@ Feel free to contribute to the project! Here are some ideas:
 
 Before contributing, check out the [Contribution Guidelines](https://github.com/infinotiver/Py-Invent/blob/master/CONTRIBUTING.md)
 
-License
+## License
 This project is licensed under the MIT License. Feel free to use and modify it for your own purposes.
 
 🚀 Happy coding and stay secure! 🛡️
