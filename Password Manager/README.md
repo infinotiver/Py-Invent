@@ -26,7 +26,7 @@ To run the project locally, follow these steps:
 
 ### Clone the repository:
    ```bash
-   git clone https://github.com/infinotiver/Math-Quiz-Master.git
+   git clone https://github.com/infinotiver/py-invent.git
    ```
 ### Run the project:
 ```bash
