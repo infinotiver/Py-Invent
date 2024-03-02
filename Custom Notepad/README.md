@@ -48,7 +48,7 @@ A simple Notepad application built with Python using the tkinter library.
 
 ## Customization
 
-- Customize the application's appearance and functionality by modifying the `Notepad` class in the `notepad.py` file.
+- Customize the application's appearance and functionality by modifying the `Notepad` class in the `notepad.py` file in the `Custom Notepad` directory
 
 ## Contributing
 
