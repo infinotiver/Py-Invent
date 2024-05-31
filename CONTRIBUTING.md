@@ -1,26 +1,5 @@
 # Contributing Guidelines
 
-Thank you for considering contributing to Math Quiz Master! 🌟
-
-## Getting Started
-
-Before you start contributing, make sure you have Python installed and the necessary dependencies for the project.
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/infinotiver/Math-Quiz-Master.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd Math-Quiz-Master
-   ```
-
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-   The requirements.txt is not currently available (but will be Soon). Install the dependencies manually
 
 ## How to Contribute
 
