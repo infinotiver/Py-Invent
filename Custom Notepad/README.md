@@ -1,8 +1,9 @@
 # Notepad Application
-## Made with ❤️ by [Infinotiver](https://github.com/infinotiver)
+## Author: [Infinotiver](https://github.com/infinotiver)
 
+## Project Overview
 
-A simple Notepad application built with Python using the tkinter library.
+A simple Notepad application built with Python using the `tkinter` library.
 
 ## Features
 
@@ -26,35 +27,3 @@ A simple Notepad application built with Python using the tkinter library.
     python notepad.py
     ```
 ( In  `Custom Notepad` directory )
-## Usage
-
-- **File Menu:**
-  - **New File:** Create a new text file.
-  - **Open File:** Open an existing text file.
-  - **Save File:** Save the current file.
-  - **Exit Notepad:** Close the application.
-
-- **Edit Menu:**
-  - **Cut Text:** Cut the selected text.
-  - **Copy Text:** Copy the selected text.
-  - **Paste Text:** Paste the copied or cut text.
-
-- **Style Menu:**
-  - **Background Color:** Change the background color of the text area.
-  - **Font Color:** Change the font color of the text.
-
-- **Help Menu:**
-  - **About Notepad:** Information about the application.
-
-## Customization
-
-- Customize the application's appearance and functionality by modifying the `Notepad` class in the `notepad.py` file in the `Custom Notepad` directory
-
-## Contributing
-
-If you'd like to contribute, please fork the repository and create a pull request. You can also open an issue for bug reports or feature requests.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
